@@ -1,0 +1,25 @@
+{
+  "name": "trendora",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "This is my modern ecommerce site using mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "react",
+    "express",
+    "ecommerce",
+    "mern"
+  ],
+  "author": "Satyam Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}
